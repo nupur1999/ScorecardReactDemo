@@ -1,0 +1,50 @@
+{
+  "dataSource": [
+    {
+      "key": "1",
+      "Page": "Workforce and Training",
+      "Possible": "50",
+      "score": "4",
+      "score_percent": "0",
+      "children": [
+        {
+          "Page": "Local Content % of Workforce",
+          "key": "3",
+          "Possible": "25",
+          "score": "22",
+          "score_percent": "92.00%"
+        },
+        {
+          "Page": "Training % of Local Workforce Hours",
+          "key": "4",
+          "Possible": "25",
+          "score": "22",
+          "score_percent": "92.00%"
+        }
+      ]
+    },
+    {
+      "key": "2",
+      "Page": "Procurment",
+      "Possible": "10",
+      "score": "40",
+      "score_percent": "50",
+      "children": [
+        {
+          "Page": "Local Content % of Workforce",
+          "key": "5",
+          "Possible": "25",
+          "score": "22",
+          "score_percent": "92.00%"
+        },
+        {
+          "Page": "Training % of Local Workforce Hours",
+          "key": "6",
+          "Possible": "25",
+          "score": "22",
+          "score_percent": "92.00%"
+        }
+      ]
+    }
+  ]
+}
